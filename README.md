@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at Utah State University. I am majoring in Computer Science and minoring in Data Analytics.<br>My expected graduation is December of 2025.<br>I previously attended Weber State University concurrently with Fremont High School and graduated with an Associate of Science Degree in General Studies. <br>I am pursuing a web devlopment internship for this upcoming summer.  
+I am a student at Utah State University. I am majoring in Computer Science and minoring in Data Analytics.<br>My expected graduation is December of 2025.<br>I previously attended Weber State University concurrently with Fremont High School and graduated with an Associate of Science Degree in General Studies. <br>I am pursuing a web devlopment internship at RR Donnelly in Logan, Utah this upcoming summer!
 
 
 ## 🌐 Socials:
