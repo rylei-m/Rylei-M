@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a student at Utah State University. I am majoring in Computer Science and minoring in Data Analytics.<br>My expected graduation is December of 2025.<br>I previously attended Weber State University concurrently with Fremont High School and graduated with an Associate of Science Degree in General Studies. <br>I am pursuing a web devlopment internship at RR Donnelly in Logan, Utah this upcoming summer!
+I am a dedicated Computer Science student at Utah State University, with a minor in Data Analytics, expecting to graduate in December 2025. My journey in this field began at Weber State University, where I earned an Associate of Science Degree in General Studies concurrently with my high school diploma from Fremont High School. This upcoming summer, I am excited to be pursuing a web development internship at RR Donnelly in Logan, Utah, where I aim to apply my knowledge in practical scenarios and gain invaluable industry experience.
+
+Growing up, my fascination with computers and Legos has shaped my career path. To me, Computer Science is like constructing intricate models with adult Legos, where every piece (or line of code) must be meticulously placed. The bugs and challenges I encounter are akin to the stubborn stickers in a Lego set - difficult to get right, but incredibly satisfying when everything aligns perfectly.
+
+Over my academic and personal projects, I've honed skills in several programming languages including C++, JavaScript, and Python with a additional interest in web technologies such as React, Node.js, and Flask.
+
+I am deeply interested in the intersection of technology and society, particularly how data analytics and web technologies can be leveraged to solve real-world problems. My career aspiration is to work at the forefront of software development, creating innovative solutions that make a positive impact.
+
+In my free time, I explore new technologies, work on personal coding projects, and continue to build and buy too many Lego sets. I believe in continuous learning and I am so excited to continue my education.
 
 
 ## 🌐 Socials:
