@@ -10,7 +10,7 @@ I am deeply interested in the intersection of technology and society, particular
 In my free time, I explore new technologies, work on personal coding projects, and continue to build and buy too many Lego sets. I believe in continuous learning and I am so excited to continue my education.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rylei) 
 
 # 💻 Tech Stack:
