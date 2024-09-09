@@ -24,8 +24,9 @@ I am a dedicated Computer Science student at Utah State University. I recently d
 ---
 [![](https://visitcount.itsvg.in/api?id=rylei-m&icon=5&color=13)](https://visitcount.itsvg.in)
 
+<!--
   ## 💰 You Can Support My Education By Donating!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ielyr) 
-
+-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
